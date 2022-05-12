@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://leonie-middeke.netlify.app/" target="_blank"> <!--portfolio-->
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leonie-middeke" target="_blank"><!--linkedin-->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

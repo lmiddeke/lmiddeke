@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/lmiddeke/lmiddeke/main/5.jpg)](https://leonie-middeke.netlify.app/)
+[![Header](https://raw.githubusercontent.com/lmiddeke/lmiddeke/main/banner.jpg)](https://leonie-middeke.netlify.app/)
 
 <h1 align="center">Leonie Middeke</h1>
 <h3 align="center">Software Engineer in the DMV area.</h3>

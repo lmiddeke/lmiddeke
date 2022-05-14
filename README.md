@@ -42,19 +42,19 @@
       <p>Barberossa is a high-end barbershop. The website shows the services offered, location, and barbers.</p>
       </div>
     </td>
-    <!--Drink Picker-->
+    <!--Magic Card Picker-->
     <td width="50%" valign="top">
-      <h3 align="center">DrinkPicker</h3>
+      <h3 align="center">Magic2.0</h3>
       <div align="center">
-      <a target="_blank" href="https://leonie-middeke.netlify.app/coffee/index2.html">
-        <img src="DrinkPicker.gif" width=80%" alt="Background-selector"/>
+      <a target="_blank" href="https://choose-your-card.netlify.app/">
+        <img src="Magic.gif" width=80%" alt="Magic the gathering card selector"/>
       </a>  
       <br>
       <br>  
-      <a href="https://github.com/lmiddeke/Background-selector" target="_blank">
+      <a href="https://github.com/lmiddeke/Magic2.0" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://leonie-middeke.netlify.app/coffee/index2.html" target="_blank">
+      <a href="https://choose-your-card.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&&logoColor=white"/>
       </a>
       <br> 

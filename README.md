@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/lmiddeke/lmiddeke/main/banner.jpg)](https://leonie-middeke.netlify.app/)
 
-<h1 align="center">Software Engineer in the DMV area.</h1>
+<h1 align="center">Software Engineer in the DMV area</h1>
 <br>
 <p align="center">
   <a href="https://leonie-middeke.netlify.app/" target="_blank"> <!--portfolio-->

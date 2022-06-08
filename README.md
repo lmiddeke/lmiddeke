@@ -86,24 +86,24 @@
       <p>This is a simple 1 page website designed with Adobe XD.</p>
       </div>
     </td>
-    <!--Restaurant-->
+    <!--NASA Space API-->
     <td width="50%" valign="top">
-      <h3 align="center">Cuisine Restaurant</h3>
+      <h3 align="center">Space Images</h3>
       <div align="center">
       <a target="_blank" href="https://leonie-middeke.netlify.app/restaurant/">
-        <img src="Restaurant.gif" width="80%" alt="Restaurant"/>
+        <img src="space.gif" width="80%" alt="Space"/>
       </a>  
       <br>
       <br>  
-      <a href="https://github.com/lmiddeke/Restaurant" target="_blank">
+      <a href="https://github.com/lmiddeke/space_API" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://leonie-middeke.netlify.app/restaurant/" target="_blank">
+      <a href="https://leonie-middeke.netlify.app/space_api/" target="_blank">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&&logoColor=white"/>
       </a>
       <br>
       <br>  
-      <p>A fine dining restaurant website.</p>
+      <p>Have you ever wished to see the stars but are stuck on earth? Fret not, now you can! Select a date you wish to see a specific space event from NASA, and learn more about it.</p>
       </div>
     </td>
   </tr>  

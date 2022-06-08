@@ -43,7 +43,7 @@
       <p>Barberossa is a high-end barbershop. The website shows the services offered, location, and barbers.</p>
       </div>
     </td>
-    <!--Magic Card Picker-->
+    <!--Magic Card Selector-->
     <td width="50%" valign="top">
       <h3 align="center">Magic2.0</h3>
       <div align="center">
@@ -60,7 +60,7 @@
       </a>
       <br> 
       <br>  
-      <p>A simple background selector based on your drink preference.</p>
+      <p>Are you midway through a Magic round and can't remember what a specific card does that you want to call on? Pull up Magic2.0 to assist you with this task so that you will always look knowledgeable in front of your friends. </p>
       </div>
     </td>
   </tr>

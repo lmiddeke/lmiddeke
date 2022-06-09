@@ -1,7 +1,9 @@
 [![Header](https://raw.githubusercontent.com/lmiddeke/lmiddeke/main/banner.jpg)](https://leonie-middeke.netlify.app/)
 
 <h1 align="center">Software Engineer in the DMV area</h1>
-<p align="center">Creating things is my passion. From art, knitting, and sewing, to coding. Please take a look around.</p>
+<p align="center">Creating things is my passion.</p>
+<p align="center">From art, knitting, and sewing, to coding. </p>
+<p align="center">Please take a look around.</p>
 <br>
 <p align="center">
   <a href="https://leonie-middeke.netlify.app/" target="_blank"> <!--portfolio-->

@@ -62,7 +62,7 @@
       </a>
       <br> 
       <br>  
-      <p>Are you midway through a Magic round and can't remember what a specific card does that you want to call on? Pull up Magic2.0 to assist you with this task so that you will always look knowledgeable in front of your friends. </p>
+      <h4>Are you midway through a Magic round and can't remember what a specific card does that you want to call on? Pull up Magic2.0 to assist you with this task so that you will always look knowledgeable in front of your friends. </h4>
       </div>
     </td>
   </tr>

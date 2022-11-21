@@ -47,7 +47,7 @@
     </td>
     <!--Magic Card Selector-->
     <td width="50%" valign="top">
-      <h3 align="center">Magic2.0</h3>
+      <h3 align="center">The Gathering</h3>
       <div align="center">
       <a target="_blank" href="https://choose-your-card.netlify.app/">
         <img src="Magic.gif" width=80%" alt="Magic the gathering card selector"/>

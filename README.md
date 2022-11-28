@@ -42,7 +42,7 @@
       </a>
       <br>
       <br>  
-      <p>Barberossa is a high-end barbershop. The website shows the services offered, location, and barbers.</p>
+      <p>Barberossa is a high-end barbershop website created with HTML and CSS for clients to review information pertaining to the barber shop.</p>
       </div>
     </td>
     <!--Magic Card Selector-->
@@ -62,7 +62,7 @@
       </a>
       <br> 
       <br>  
-      <p>Are you midway through a Magic round and can't remember what a specific card does that you want to call on? Pull up Magic2.0 to assist you with this task so that you will always look knowledgeable in front of your friends. </p>
+      <p>Full-stack app using JavaScript, CSS, and HTML with the Magic the Gathering API to provide a searchable card selector for customers.  </p>
       </div>
     </td>
   </tr>
@@ -85,7 +85,7 @@
       </a>
       <br>
       <br>  
-      <p>This is a simple 1 page website designed with Adobe XD.</p>
+      <p>This is a simple 1 page website designed with Adobe XD and created with HTML and CSS.</p>
       </div>
     </td>
     <!--NASA Space API-->
@@ -105,7 +105,7 @@
       </a>
       <br>
       <br>  
-      <p>Have you ever wished to see the stars but are stuck on earth? Fret not, now you can! Select a date you wish to see a specific space event from NASA, and learn more about it.</p>
+      <p>Full-stack app using JavaScript, CSS, and HTML with NASA API integration giving users the ability to pull up data for requested time periods. </p>
       </div>
     </td>
   </tr>  

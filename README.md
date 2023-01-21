@@ -92,7 +92,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Space Images</h3>
       <div align="center">
-      <a target="_blank" href="https://leonie-middeke.netlify.app/restaurant/">
+      <a target="_blank" href="https://leonie-middeke.netlify.app/space_api/">
         <img src="space.gif" width="80%" alt="Space"/>
       </a>  
       <br>

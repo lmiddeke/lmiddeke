@@ -50,7 +50,7 @@
       <h3 align="center">The Gathering</h3>
       <div align="center">
       <a target="_blank" href="https://choose-your-card.netlify.app/">
-        <img src="Magic.gif" width=20%" alt="Magic the Gathering card selector"/>
+        <img src="Magic.gif" width="80%" heigth="50%" alt="Magic the Gathering card selector"/>
       </a>  
       <br>
       <br>  

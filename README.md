@@ -62,7 +62,7 @@
       </a>
       <br> 
       <br>  
-      <p>Full-stack app using JavaScript, CSS, and HTML with the Magic the Gathering API to provide a searchable card selector for customers.  </p>
+      <p>Full-stack app using JavaScript, CSS, and HTML with the Magic the Gathering API to provide a searchable card selector for users.  </p>
       </div>
     </td>
   </tr>

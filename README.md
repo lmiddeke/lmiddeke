@@ -21,7 +21,7 @@
 </p>
 
 <hr>
-<br>
+<!--<br>-->
 <h2 align="center">Projects</h2>
 <table>
   <tr>
